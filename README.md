@@ -7,11 +7,11 @@
  <p1>Lesson 1.1:<a href="https://github.com/WorkED123/whatiscyber">  What is Cyber </a> </p1>
  <br>
   
-<p1>Lesson 1.2:<a href ="https://github.com/WorkED123/CIA-Triad">The CIA Triad </a> </p1>
+<p1>Lesson 1.2:<a href ="https://github.com/WorkED123/CIA-Triad"> The CIA Triad </a> </p1>
     
 <p1>Lesson 1.3: Authentication, Authorization, and Accounting (AAA) </p1> 
    
-<p1>Lesson 1.4:<a href="https://github.com/WorkED123/uderstandingcyberthreats">Understanding Cyber Threats </a></p1> 
+<p1>Lesson 1.4:<a href="https://github.com/WorkED123/uderstandingcyberthreats"> Understanding Cyber Threats </a></p1> 
    
 <p1>Lesson 1.5: Fundamentals of Secure Systems</p1> 
 <br>
@@ -44,7 +44,7 @@
 <br>
 <br>
 <h2> Module 4: Cryptography</h2>
-<p4> Lesson 4.1:<a href="https://github.com/WorkED123/Introtocryptography">Introduction to Cryptography</a></p4>
+<p4> Lesson 4.1:<a href="https://github.com/WorkED123/Introtocryptography"> Introduction to Cryptography</a></p4>
 <br>
 <br>
 <p4> Lesson 4.2: Ciphers and Cryptanalysis</p4>
@@ -60,7 +60,7 @@
 <br>
 <br>
 <h2> Module 5: Web Application Security</h2>
-<p5> Lesson 5.1:<a href="https://github.com/WorkED123/Common-Web-Vulnerabilities">Common Web Vulnerabbilities </a></p5>
+<p5> Lesson 5.1:<a href="https://github.com/WorkED123/Common-Web-Vulnerabilities"> Common Web Vulnerabbilities </a></p5>
 <br>
 <br>
 <p5> Lesson 5.2: Introduction to HTTPS and SSL/TLS </p5>
