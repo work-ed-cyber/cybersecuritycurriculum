@@ -7,7 +7,7 @@
  <p1>Lesson 1.1:<a href="https://github.com/WorkED123/whatiscyber">  What is Cyber </a> </p1>
  <br>
   
-<p1>Lesson 1.2: The CIA Triad</p1>
+<p1>Lesson 1.2:<a href ="https://github.com/WorkED123/CIA-Triad">The CIA Triad </a> </p1>
     
 <p1>Lesson 1.3: Authentication, Authorization, and Accounting (AAA) </p1> 
    
