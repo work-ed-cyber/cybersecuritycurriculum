@@ -19,7 +19,7 @@
     
 <h2> Module 2: Networking Basics</h2> 
 
-<p2>Lesson 2.1:<a href="https://github.com/WorkED123/introductiontonetworks"> Introduction to Newtworks </a></p2>
+<p2>Lesson 2.1:<a href="https://github.com/WorkED123/introductiontonetworks"> Introduction to Networks </a></p2>
 
 <p2>Lesson 2.2: The OSI Model</p2> 
     
