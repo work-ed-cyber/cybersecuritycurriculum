@@ -11,7 +11,7 @@
     
 <p1>Lesson 1.3: Authentication, Authorization, and Accounting (AAA) </p1> 
    
-<p1>Lesson 1.4: Understanding Cyber Threats</p1> 
+<p1>Lesson 1.4:<a href="https://github.com/WorkED123/uderstandingcyberthreats">Understanding Cyber Threats </a></p1> 
    
 <p1>Lesson 1.5: Fundamentals of Secure Systems</p1> 
 <br>
@@ -19,7 +19,7 @@
     
 <h2> Module 2: Networking Basics</h2> 
 
-<p2>Lesson 2.1: Introduction to Newtworks</p2>
+<p2>Lesson 2.1:<a href=""> Introduction to Newtworks </a></p2>
 
 <p2>Lesson 2.2: The OSI Model</p2> 
     
