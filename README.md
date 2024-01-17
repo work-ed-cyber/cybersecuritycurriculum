@@ -32,7 +32,7 @@
 <br>
 <h2> Module 3: Introduction to Linux</h2>
 
-<p3> Lesson 3.1: Linux Basics </p3> <br>
+<p3> Lesson 3.1:<a href="https://github.com/WorkED123/linuxbasics"> Linux Basics</a> </p3> <br>
 <br>
 <p3> Lesson 3.2: Linux Navigation </p3> <br>
 <br>
@@ -40,11 +40,11 @@
 <br>
 <p3> Lesson 3.4: Bash Shell Scripting </p3><br>
 <br>
-<p3> Lesson 3.5: Linux Distributions for Ethical Hacking </p3>
+<p3> Lesson 3.5:<a href="https://github.com/WorkED123/Linux-Distributions-For-Ethical-Hacking"> Linux Distributions for Ethical Hacking </a> </p3>
 <br>
 <br>
 <h2> Module 4: Cryptography</h2>
-<p4> Lesson 4.1: Introduction to Cryptography</p4>
+<p4> Lesson 4.1:<a href="https://github.com/WorkED123/Introtocryptography">Introduction to Cryptography</a></p4>
 <br>
 <br>
 <p4> Lesson 4.2: Ciphers and Cryptanalysis</p4>
@@ -60,7 +60,7 @@
 <br>
 <br>
 <h2> Module 5: Web Application Security</h2>
-<p5> Lesson 5.1: Common Web Vulnerabbilities </p5>
+<p5> Lesson 5.1:<a href="https://github.com/WorkED123/Common-Web-Vulnerabilities">Common Web Vulnerabbilities </a></p5>
 <br>
 <br>
 <p5> Lesson 5.2: Introduction to HTTPS and SSL/TLS </p5>
@@ -72,7 +72,7 @@
 <p5> Lesson 5.4  Web Security: Headers and Content Security Policy</p5>
 <br>
 <br>
-<p5> Lesson 5.5  Bug Bounties and Ethical Hacking</p5>
+<p5> Lesson 5.5<a href="https://github.com/WorkED123/Bug-Bounties-and-Ethical-Hacking"> Bug Bounties and Ethical Hacking</a></p5>
 <br>
 <br>
 
