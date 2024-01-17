@@ -69,10 +69,10 @@
 <p5> Lesson 5.3: Web Security: Sessions and Cookies</p5>
 <br>
 <br>
-<p5> Lesson 5.4  Web Security: Headers and Content Security Policy</p5>
+<p5> Lesson 5.4: Web Security: Headers and Content Security Policy</p5>
 <br>
 <br>
-<p5> Lesson 5.5<a href="https://github.com/WorkED123/Bug-Bounties-and-Ethical-Hacking"> Bug Bounties and Ethical Hacking</a></p5>
+<p5> Lesson 5.5: <a href="https://github.com/WorkED123/Bug-Bounties-and-Ethical-Hacking"> Bug Bounties and Ethical Hacking</a></p5>
 <br>
 <br>
 
