@@ -77,10 +77,10 @@
 <br>
 
 <h2> Module 6: Wireless Technologies </h2>
-<p6> Lesson 6.1: Introudction to Wireless Networks</p6>
+<p6> Lesson 6.1:<a href="https://github.com/WorkED123/Introtowirelessnetworks">Introudction to Wireless Networks</a></p6>
 <br>
 <br>
-<p6> Lesson 6.2: Basics of WLANs</p6>
+<p6> Lesson 6.2:<a href="https://github.com/WorkED123/basics-of-WLAN">Basics of WLANs</a></p6>
 <br>
 <br>
 <p6> Lesson 6.3: WLAN Security Protocols</p6>
@@ -146,10 +146,10 @@
 <br>
 
 <h2> Module 10: Ethical Hacking</h2>
-<p10>Lesson 10.1: Introduction to Penetration Testing</p10>
+<p10>Lesson 10.1:<a href="https://github.com/WorkED123/Intro-to-Pen-Testing">Introduction to Penetration Testing</a></p10>
 <br>
 <br>
-<p10>Lesson 10.2: Reconnaissance and Social Engineering</p10>
+<p10>Lesson 10.2:<a href= "https://github.com/WorkED123/Recon-and-social-engineering">Reconnaissance and Social Engineering</a></p10>
 <br>
 <br>
 <p10>Lesson 10.3: Scanning and Enumeration</p10>
@@ -163,7 +163,7 @@
 <br>
 
 <h2> Module 11: Data Security</h2>
-<p11> Lesson 11.1: Introduction to Data Security</p11>
+<p11> Lesson 11.1:<a href="https://github.com/WorkED123/intro-to-data-security">Introduction to Data Security</a></p11>
 <br>
 <br>
 <p11> Lesson 11.2: Password Security</p11>
