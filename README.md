@@ -166,7 +166,7 @@
 <p11> Lesson 11.1:<a href="https://github.com/WorkED123/intro-to-data-security"> Introduction to Data Security</a></p11>
 <br>
 <br>
-<p11> Lesson 11.2: Password Security</p11>
+<p11> Lesson 11.2:<a href="https://github.com/WorkED123/passwordsecurity"> Password Security</a></p11>
 <br>
 <br>
 <p11> Lesson 11.3: Understanding Data Collection</p11>
@@ -180,7 +180,7 @@
 <br>
 
 <h2> Module 12: Cyberwarfare</h2>
-<p12>Lesson 12.1: Introduction to Cyberwarfare</p12>
+<p12>Lesson 12.1:<a href="https://github.com/WorkED123/into-to-cyberwarfare"> Introduction to Cyberwarfare</a></p12>
 <br>
 <br>
 <p12>Lesson 12.2: Nation-State Actors</p12>
