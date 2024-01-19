@@ -124,7 +124,7 @@
 <p8> Lesson 8.4: Cloud Compliance and Legal Issues</p8>
 <br>
 <br>
-<p8> Lesson 8.5: Cloud Security Best Pratices<5/p8>
+<p8> Lesson 8.5: Cloud Security Best Pratices</p8>
 <br>
 <br>
 
