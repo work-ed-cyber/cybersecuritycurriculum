@@ -9,11 +9,11 @@
   
 <p1>Lesson 1.2:<a href ="https://github.com/WorkED123/CIA-Triad"> The CIA Triad </a> </p1>
     
-<p1>Lesson 1.3: Authentication, Authorization, and Accounting (AAA) </p1> 
+<p1>Lesson 1.3:<a href ="https://github.com/WorkED123/AAA"> Authentication, Authorization, and Accounting (AAA) </a> </p1> 
    
 <p1>Lesson 1.4:<a href="https://github.com/WorkED123/uderstandingcyberthreats"> Understanding Cyber Threats </a></p1> 
    
-<p1>Lesson 1.5: Fundamentals of Secure Systems</p1> 
+<p1>Lesson 1.5:<a href="https://github.com/WorkED123/secure-systems"> Fundamentals of Secure Systems </a></p1> 
 <br>
 <br>
     
@@ -21,24 +21,24 @@
 
 <p2>Lesson 2.1:<a href="https://github.com/WorkED123/introductiontonetworks"> Introduction to Networks </a></p2>
 
-<p2>Lesson 2.2: The OSI Model</p2> 
+<p2>Lesson 2.2:<a href="https://github.com/WorkED123/OSI"> The OSI Model </a></p2> 
     
-<p2>Lesson 2.3: Network Ports and Protocols</p2> 
+<p2>Lesson 2.3:<a href="https://github.com/WorkED123/ports-and-protocols"> Network Ports and Protocols </a></p2> 
     
-<p2>Lesson 2.4: Network Devices and Topologies</p2> 
+<p2>Lesson 2.4:<a href="https://github.com/WorkED123/network-devices-and-topologies"> Network Devices and Topologies </a></p2> 
     
-<p2>Lesson 2.5: Network Troubleshooting</p2> 
+<p2>Lesson 2.5:<a href="https://github.com/WorkED123/network-troubleshooting"> Network Troubleshooting </a></p2> 
 <br>
 <br>
 <h2> Module 3: Introduction to Linux</h2>
 
 <p3> Lesson 3.1:<a href="https://github.com/WorkED123/linuxbasics"> Linux Basics</a> </p3> <br>
 <br>
-<p3> Lesson 3.2: Linux Navigation </p3> <br>
+<p3> Lesson 3.2:<a href="https://github.com/WorkED123/linuxnav"> Linux Navigation</a> </p3> <br>
 <br>
-<p3> Lesson 3.3: Linux Security Tools </p3><br>
+<p3> Lesson 3.3:<a href="https://github.com/WorkED123/linux-security-tools"> Linux Security Tools</a> </p3><br>
 <br>
-<p3> Lesson 3.4: Bash Shell Scripting </p3><br>
+<p3> Lesson 3.4:<a href="https://github.com/WorkED123/bash-shell"> Bash Shell Scripting</a> </p3><br>
 <br>
 <p3> Lesson 3.5:<a href="https://github.com/WorkED123/Linux-Distributions-For-Ethical-Hacking"> Linux Distributions for Ethical Hacking </a> </p3>
 <br>
@@ -47,10 +47,10 @@
 <p4> Lesson 4.1:<a href="https://github.com/WorkED123/Introtocryptography"> Introduction to Cryptography</a></p4>
 <br>
 <br>
-<p4> Lesson 4.2: Ciphers and Cryptanalysis</p4>
+<p4> Lesson 4.2:<a href="https://github.com/WorkED123/ciphers"> Ciphers and Cryptanalysis</a></p4>
 <br>
 <br>
-<p4> Lesson 4.3: Steganography</p4>
+<p4> Lesson 4.3:<a href="https://github.com/WorkED123/steganography"> Steganography</a></p4>
 <br>
 <br>
 <p4> Lesson 4.4: Symmetrical Encryption</p4>
@@ -192,7 +192,7 @@
 <p12>Lesson 12.4: Hacktivism</p12>
 <br>
 <br>
-<p12>Lesson 12.5: Case Study: Stuxnet</p12>
+<p12>Lesson 12.5:<a href="https://github.com/WorkED123/casestudystunext">Case Study: Stuxnet</a></p12>
 <br>
 <br>
 
@@ -214,19 +214,19 @@
 <br>
 
 <h2> Module 14: Digital Forensics and Cybercrime</h2>
-<p14>Lesson 14.1: Introduction to Digitial Forensics</p14>
+<p14>Lesson 14.1:<a href="https://github.com/WorkED123/Introtodigitalforensics"> Introduction to Digitial Forensics</a></p14>
 <br>
 <br>
 <p14>Lesson 14.2: Forensic Tools and Techniques</p14>
 <br>
 <br>
-<p14>Lesson 14.3: Types of Cybercrime</p14>
+<p14>Lesson 14.3:<a href="https://github.com/WorkED123/typesofcybercrime"> Types of Cybercrime</a></p14>
 <br>
 <br>
 <p14>Lesson 14.4: Incident Response</p14>
 <br>
 <br>
-<p14>Lesson 14.5: Hacker Profile</p14>
+<p14>Lesson 14.5:<a href="https://github.com/WorkED123/hacker-profile"> Hacker Profile</a></p14>
 <br>
 <br>
 
@@ -251,7 +251,7 @@
 <p16>Lesson 16.1: Introudction to Malware</p16>
 <br>
 <br>
-<p16>Lesson 16.2: Types of Malware</p16>
+<p16>Lesson 16.2:<a href="https://github.com/WorkED123/typesofmalware"> Types of Malware</a></p16>
 <br>
 <br>
 <p16>Lesson 16.3: Malware Protection and Detection</p16>
@@ -265,7 +265,7 @@
 <br>
 
 <h2> Module 17: Exploring Cyber Pathways</h2>
-<p17>Lesson 17.1: Introudction to Cybersecurity Careers</p17>
+<p17>Lesson 17.1:<a href="https://github.com/WorkED123/introtocybercareers"> Introudction to Cybersecurity Careers</a></p17>
 <br>
 <br>
 <p17>Lesson 17.2: Cybersecurity Roles and Responsibilities</p17>
@@ -285,7 +285,7 @@
 <p18>Lesson 18.1: Blockchain</p18>
 <br>
 <br>
-<p18>Lesson 18.2: Artifical Intelligence</p18>
+<p18>Lesson 18.2:<a href="https://github.com/WorkED123/AI"> Artifical Intelligence </a></p18>
 <br>
 <br>
 <p18>Lesson 18.3: Quantum Computing</p18>
