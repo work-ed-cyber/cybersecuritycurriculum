@@ -53,23 +53,23 @@
 <p4> Lesson 4.3:<a href="https://github.com/WorkED123/steganography"> Steganography</a></p4>
 <br>
 <br>
-<p4> Lesson 4.4: Symmetrical Encryption</p4>
+<p4> Lesson 4.4:<a href="https://github.com/WorkED123/Symmetrical-Encrpt"> Symmetrical Encryption</a></p4>
 <br>
 <br>
-<p4> Lesson 4.5: Public Key (Asymmetric) Encryption</p4> 
+<p4> Lesson 4.5:<a href="https://github.com/WorkED123/Public-Key"> Public Key (Asymmetric) Encryption</a></p4> 
 <br>
 <br>
 <h2> Module 5: Web Application Security</h2>
 <p5> Lesson 5.1:<a href="https://github.com/WorkED123/Common-Web-Vulnerabilities"> Common Web Vulnerabbilities </a></p5>
 <br>
 <br>
-<p5> Lesson 5.2: Introduction to HTTPS and SSL/TLS </p5>
+<p5> Lesson 5.2:<a href="https://github.com/WorkED123/intro-to-https-SSL"> Introduction to HTTPS and SSL/TLS</a> </p5>
 <br>
 <br>
 <p5> Lesson 5.3: Web Security: Sessions and Cookies</p5>
 <br>
 <br>
-<p5> Lesson 5.4: Web Security: Headers and Content Security Policy</p5>
+<p5> Lesson 5.4:<a href="https://github.com/WorkED123/web-security-Headers"> Web Security: Headers and Content Security Policy</a></p5>
 <br>
 <br>
 <p5> Lesson 5.5: <a href="https://github.com/WorkED123/Bug-Bounties-and-Ethical-Hacking"> Bug Bounties and Ethical Hacking</a></p5>
