@@ -103,10 +103,10 @@
 <p7>Lesson 7.3:<a href="https://github.com/WorkED123/Secure-Log-Man"> Secure Log Management</a></p7>
 <br>
 <br>
-<p7>Lesson 7.4:<a href=""> Intrusion Protection Systems</a></p7>
+<p7>Lesson 7.4: Intrusion Protection Systems</a></p7>
 <br>
 <br>
-<p7>Lesson 7.5:<a href=""> Virtual Private Networks</a></p7>
+<p7>Lesson 7.5: Virtual Private Networks</a></p7>
 <br>
 <br>
 
@@ -282,7 +282,7 @@
 <br>
 
 <h2> Module 18: Emerging Cyber Technonlogies</h2>
-<p18>Lesson 18.1: Blockchain</p18>
+<p18>Lesson 18.1:<a href="https://github.com/WorkED123/Blockchain"> Blockchain</a></p18>
 <br>
 <br>
 <p18>Lesson 18.2:<a href="https://github.com/WorkED123/AI"> Artifical Intelligence </a></p18>
