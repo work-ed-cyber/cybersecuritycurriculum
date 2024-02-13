@@ -66,7 +66,7 @@
 <p5> Lesson 5.2:<a href="https://github.com/WorkED123/intro-to-https-SSL"> Introduction to HTTPS and SSL/TLS</a> </p5>
 <br>
 <br>
-<p5> Lesson 5.3: Web Security: Sessions and Cookies</p5>
+<p5> Lesson 5.3:<a href="https://github.com/WorkED123/Web-Security-Sessions-and-Cookies"> Web Security: Sessions and Cookies</a></p5>
 <br>
 <br>
 <p5> Lesson 5.4:<a href="https://github.com/WorkED123/web-security-Headers"> Web Security: Headers and Content Security Policy</a></p5>
@@ -86,27 +86,27 @@
 <p6> Lesson 6.3: WLAN Security Protocols</p6>
 <br>
 <br>
-<p6> Lesson 6.4: Attacking Wireless Networks</p6>
+<p6> Lesson 6.4:<a href="https://github.com/WorkED123/Attacking-Wireless-Networks"> Attacking Wireless Networks</a></p6>
 <br>
 <br>
-<p6> Lesson 6.5: Defending Wireless Networks</p6>
+<p6> Lesson 6.5:<a href="https://github.com/WorkED123/Defending-Wireless-Netorks"> Defending Wireless Networks</a></p6>
 <br>
 <br>
 
 <h2> Module 7: Secure Network Design</h2>
-<p7>Lesson 7.1: Basic Network Security</p7>
+<p7>Lesson 7.1:<a href="https://github.com/WorkED123/Basic-Network-Security"> Basic Network Security</a></p7>
 <br>
 <br>
-<p7>Lesson 7.2: Firewall Fundamentals</p7>
+<p7>Lesson 7.2:<a href="https://github.com/WorkED123/Firewall-Fundamentals"> Firewall Fundamentals</a></p7>
 <br>
 <br>
-<p7>Lesson 7.3: Secure Log Management</p7>
+<p7>Lesson 7.3:<a href="https://github.com/WorkED123/Secure-Log-Man"> Secure Log Management</a></p7>
 <br>
 <br>
-<p7>Lesson 7.4: Intrusion Protection Systems</p7>
+<p7>Lesson 7.4:<a href=""> Intrusion Protection Systems</a></p7>
 <br>
 <br>
-<p7>Lesson 7.5: Virtual Private Networks</p7>
+<p7>Lesson 7.5:<a href=""> Virtual Private Networks</a></p7>
 <br>
 <br>
 
