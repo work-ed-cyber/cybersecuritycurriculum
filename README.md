@@ -254,7 +254,7 @@
 <p16>Lesson 16.2:<a href="https://github.com/WorkED123/typesofmalware"> Types of Malware</a></p16>
 <br>
 <br>
-<p16>Lesson 16.3: Malware Protection and Detection</p16>
+<p16>Lesson 16.3:<a href="https://github.com/WorkED123/Malware-Protection-and-detection"> Malware Protection and Detection</a></p16>
 <br>
 <br>
 <p16>Lesson 16.4: Threat Intelligence and Models</p16>
