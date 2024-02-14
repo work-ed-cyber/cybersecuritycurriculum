@@ -271,10 +271,10 @@
 <p17>Lesson 17.2: Cybersecurity Roles and Responsibilities</p17>
 <br>
 <br>
-<p17>Lesson 17.3: Certifications and Continuous Learning</p17>
+<p17>Lesson 17.3:<a href="https://github.com/WorkED123/Certs-and-continuous-learning"> Certifications and Continuous Learning</a></p17>
 <br>
 <br>
-<p17>Lesson 17.4: Resume Building</p17>
+<p17>Lesson 17.4:<a href="https://github.com/WorkED123/resume-building"> Resume Building</a></p17>
 <br>
 <br>
 <p17>Lesson 17.5: Interview Preparation</p17>
