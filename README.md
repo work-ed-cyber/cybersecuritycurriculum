@@ -112,19 +112,19 @@
 
 
 <h2> Module 8: Cloud Security</h2>
-<p8> Lesson 8.1: Introudction to Cloud Technologies</p8>
+<p8> Lesson 8.1:<a href="https://github.com/WorkED123/introtocloud"> Introudction to Cloud Technologies</a></p8>
 <br>
 <br>
-<p8> Lesson 8.2 Cloud Deployment Models</p8>
+<p8> Lesson 8.2:<a href="https://github.com/WorkED123/Cloud-Deployment"> Cloud Deployment Models</a></p8>
 <br>
 <br>
-<p8> Lesson 8.3: Cloud Security Concerns</p8>
+<p8> Lesson 8.3:<a href="https://github.com/WorkED123/Cloud-Security"> Cloud Security Concerns</a></p8>
 <br>
 <br>
-<p8> Lesson 8.4: Cloud Compliance and Legal Issues</p8>
+<p8> Lesson 8.4:<a href="https://github.com/WorkED123/Cloud-Compliance"> Cloud Compliance and Legal Issues</a></p8>
 <br>
 <br>
-<p8> Lesson 8.5: Cloud Security Best Pratices</p8>
+<p8> Lesson 8.5:<a href="https://github.com/WorkED123/Cloud-Security-"> Cloud Security Best Pratices</a></p8>
 <br>
 <br>
 
