@@ -83,7 +83,7 @@
 <p6> Lesson 6.2:<a href="https://github.com/WorkED123/basics-of-WLAN"> Basics of WLANs</a></p6>
 <br>
 <br>
-<p6> Lesson 6.3: WLAN Security Protocols</p6>
+<p6> Lesson 6.3:<a href="https://github.com/WorkED123/WLANsecurity"> WLAN Security Protocols</a></p6>
 <br>
 <br>
 <p6> Lesson 6.4:<a href="https://github.com/WorkED123/Attacking-Wireless-Networks"> Attacking Wireless Networks</a></p6>
@@ -103,10 +103,10 @@
 <p7>Lesson 7.3:<a href="https://github.com/WorkED123/Secure-Log-Man"> Secure Log Management</a></p7>
 <br>
 <br>
-<p7>Lesson 7.4: Intrusion Protection Systems</a></p7>
+<p7>Lesson 7.4:<a href="https://github.com/WorkED123/IPS"> Intrusion Protection Systems</a></p7>
 <br>
 <br>
-<p7>Lesson 7.5: Virtual Private Networks</a></p7>
+<p7>Lesson 7.5:<a href="https://github.com/WorkED123/VPN"> Virtual Private Networks</a></p7>
 <br>
 <br>
 
@@ -183,7 +183,7 @@
 <p12>Lesson 12.1:<a href="https://github.com/WorkED123/into-to-cyberwarfare"> Introduction to Cyberwarfare</a></p12>
 <br>
 <br>
-<p12>Lesson 12.2: Nation-State Actors</p12>
+<p12>Lesson 12.2:<a href="https://github.com/WorkED123/Nation-State-Actors"> Nation-State Actors</a></p12>
 <br>
 <br>
 <p12>Lesson 12.3: Cyber Terrorism</p12>
