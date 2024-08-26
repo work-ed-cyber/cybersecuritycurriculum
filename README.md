@@ -129,19 +129,19 @@
 <br>
 
 <h2> Module 9: Access Control Managment</h2>
-<p9>Lesson 9.1: Introudction to Acess Control Management</p9>
+<p9>Lesson 9.1:<a href="https://github.com/WorkED123/Introduction-to-Access-Control-Management"> Introudction to Acess Control Management</a></p9>
 <br>
 <br>
-<p9>Lesson 9.2: Types of Access Control</p9>
+<p9>Lesson 9.2:<a href="https://github.com/WorkED123/Types-of-Access-Control"> Types of Access Control</a></p9>
 <br>
 <br>
-<p9>Lesson 9.3: System Security</p9>
+<p9>Lesson 9.3:<a href="https://github.com/WorkED123/System-Security"> System Security</a></p9>
 <br>
 <br>
-<p9>Lesson 9.4: Physical Security</p9>
+<p9>Lesson 9.4:<a href="https://github.com/WorkED123/physical-security"> Physical Security</a></p9>
 <br>
 <br>
-<p9>Lesson 9.5: Access Control Lists (ACLs) and Permissions</p9>
+<p9>Lesson 9.5:<a href="https://github.com/WorkED123/Access-Control-Lists-ACLs-Permissions"> Access Control Lists (ACLs) and Permissions</a></p9>
 <br>
 <br>
 
@@ -152,13 +152,13 @@
 <p10>Lesson 10.2:<a href= "https://github.com/WorkED123/Recon-and-social-engineering"> Reconnaissance and Social Engineering</a></p10>
 <br>
 <br>
-<p10>Lesson 10.3: Scanning and Enumeration</p10>
+<p10>Lesson 10.3:<a href="https://github.com/WorkED123/Scanning-and-Enumeration"> Scanning and Enumeration</a></p10>
 <br>
 <br>
-<p10>Lesson 10.4: Setting up a Lab Environment</p10>
+<p10>Lesson 10.4:<a href="https://github.com/WorkED123/Setting-up-a-Lab-Environment"> Setting up a Lab Environment</a></p10>
 <br>
 <br>
-<p10>Lesson 10.5: Capture the Flap (CTF)</p10>
+<p10>Lesson 10.5:<a href="https://github.com/WorkED123/Capture-the-Flag-CTF-"> Capture the Flap (CTF)</a></p10>
 <br>
 <br>
 
@@ -169,13 +169,13 @@
 <p11> Lesson 11.2:<a href="https://github.com/WorkED123/passwordsecurity"> Password Security</a></p11>
 <br>
 <br>
-<p11> Lesson 11.3: Understanding Data Collection</p11>
+<p11> Lesson 11.3:<a href="https://github.com/WorkED123/Understanding-Data-Collection"> Understanding Data Collection</a></p11>
 <br>
 <br>
-<p11> Lesson 11.4: Impact of Data Breaches</p11>
+<p11> Lesson 11.4:<a href="https://github.com/WorkED123/Impact-of-Data-Breaches"> Impact of Data Breaches</a></p11>
 <br>
 <br>
-<p11> Lesson 11.5: Privacy Laws and Regulations</p11>
+<p11> Lesson 11.5:<a href="https://github.com/WorkED123/Privacy-Laws-and-Regulations"> Privacy Laws and Regulations</a></p11>
 <br>
 <br>
 
@@ -186,10 +186,10 @@
 <p12>Lesson 12.2:<a href="https://github.com/WorkED123/Nation-State-Actors"> Nation-State Actors</a></p12>
 <br>
 <br>
-<p12>Lesson 12.3: Cyber Terrorism</p12>
+<p12>Lesson 12.3:<a href="https://github.com/WorkED123/Cyber-Terrorism"> Cyber Terrorism</a></p12>
 <br>
 <br>
-<p12>Lesson 12.4: Hacktivism</p12>
+<p12>Lesson 12.4:<a href="https://github.com/WorkED123/Hacktivism"> Hacktivism</a></p12>
 <br>
 <br>
 <p12>Lesson 12.5:<a href="https://github.com/WorkED123/casestudystunext">Case Study: Stuxnet</a></p12>
@@ -197,19 +197,19 @@
 <br>
 
 <h2> Module 13: Governance and Compliance</h2>
-<p13>Lesson 13.1: Introduction to Security Governance </p13>
+<p13>Lesson 13.1:<a href="https://github.com/WorkED123/Introduction-to-Security-Governance"> Introduction to Security Governance</a> </p13>
 <br>
 <br>
-<p13>Lesson 13.2: Security Policies, Standards, and Procedures</p13>
+<p13>Lesson 13.2:<a href="https://github.com/WorkED123/Security-Policies-Standards-and-Procedures"> Security Policies, Standards, and Procedures</a></p13>
 <br>
 <br>
-<p13>Lesson 13.3: Introduction to Compliance</p13>
+<p13>Lesson 13.3:<a href="https://github.com/WorkED123/Introduction-to-Compliance"> Introduction to Compliance</a></p13>
 <br>
 <br>
-<p13>Lesson 13.4: Major Compliance Frameworks</p13>
+<p13>Lesson 13.4:<a href="https://github.com/WorkED123/Major-Compliance-Frameworks"> Major Compliance Frameworks</a></p13>
 <br>
 <br>
-<p13>Lesson 13.5: Audits and Assessments</p13>
+<p13>Lesson 13.5:<a href="https://github.com/WorkED123/Audits-and-Assessments"> Audits and Assessments</a></p13>
 <br>
 <br>
 
@@ -217,13 +217,13 @@
 <p14>Lesson 14.1:<a href="https://github.com/WorkED123/Introtodigitalforensics"> Introduction to Digitial Forensics</a></p14>
 <br>
 <br>
-<p14>Lesson 14.2: Forensic Tools and Techniques</p14>
+<p14>Lesson 14.2:<a href="https://github.com/WorkED123/Forensic-Tools-and-Techniques"> Forensic Tools and Techniques</a></p14>
 <br>
 <br>
 <p14>Lesson 14.3:<a href="https://github.com/WorkED123/typesofcybercrime"> Types of Cybercrime</a></p14>
 <br>
 <br>
-<p14>Lesson 14.4: Incident Response</p14>
+<p14>Lesson 14.4:<a href="https://github.com/WorkED123/Incident-Response-"> Incident Response</a></p14>
 <br>
 <br>
 <p14>Lesson 14.5:<a href="https://github.com/WorkED123/hacker-profile"> Hacker Profile</a></p14>
@@ -231,24 +231,24 @@
 <br>
 
 <h2> Module 15: Information Management and Risk</h2>
-<p15>Lesson 15.1: Risk Identification</p15>
+<p15>Lesson 15.1:<a href="https://github.com/WorkED123/Risk-Identification"> Risk Identification</a></p15>
 <br>
 <br>
-<p15>Lesson 15.2: Risk Assessment</p15>
+<p15>Lesson 15.2:<a href="https://github.com/WorkED123/Risk-Assessment"> Risk Assessment</a></p15>
 <br>
 <br>
-<p15>Lesson 15.3: Risk Mitigation</p15>
+<p15>Lesson 15.3:<a href="https://github.com/WorkED123/Risk-Mitigation"> Risk Mitigation</a></p15>
 <br>
 <br>
-<p15>Lesson 15.4: Creating a Risk Management Plan</p15>
+<p15>Lesson 15.4:<a href="https://github.com/WorkED123/Creating-a-Risk-Management-Plan"> Creating a Risk Management Plan</a></p15>
 <br>
 <br>
-<p15>Lesson 15.5: Risk Management Tools and Technologies</p15>
+<p15>Lesson 15.5:<a href="https://github.com/WorkED123/Risk-Management-Tools-and-Technologies"> Risk Management Tools and Technologies</a></p15>
 <br>
 <br>
 
 <h2> Module 16: Malware</h2>
-<p16>Lesson 16.1: Introudction to Malware</p16>
+<p16>Lesson 16.1:<a href="https://github.com/WorkED123/Introduction-to-Malware"> Introudction to Malware</a></p16>
 <br>
 <br>
 <p16>Lesson 16.2:<a href="https://github.com/WorkED123/typesofmalware"> Types of Malware</a></p16>
@@ -257,10 +257,10 @@
 <p16>Lesson 16.3:<a href="https://github.com/WorkED123/Malware-Protection-and-detection"> Malware Protection and Detection</a></p16>
 <br>
 <br>
-<p16>Lesson 16.4: Threat Intelligence and Models</p16>
+<p16>Lesson 16.4:<a href="https://github.com/WorkED123/Threat-Intelligence-and-Models"> Threat Intelligence and Models</a></p16>
 <br>
 <br>
-<p16>Lesson 16.5: Malware ANalysis and Reverse Engineering</p16>
+<p16>Lesson 16.5:<a href="https://github.com/WorkED123/Malware-Analysis-and-Reverse-Engineering"> Malware ANalysis and Reverse Engineering</a></p16>
 <br>
 <br>
 
@@ -268,7 +268,7 @@
 <p17>Lesson 17.1:<a href="https://github.com/WorkED123/introtocybercareers"> Introudction to Cybersecurity Careers</a></p17>
 <br>
 <br>
-<p17>Lesson 17.2: Cybersecurity Roles and Responsibilities</p17>
+<p17>Lesson 17.2:<a href="https://github.com/WorkED123/Cybersecurity-Roles-and-Responsibilities"> Cybersecurity Roles and Responsibilities</a></p17>
 <br>
 <br>
 <p17>Lesson 17.3:<a href="https://github.com/WorkED123/Certs-and-continuous-learning"> Certifications and Continuous Learning</a></p17>
@@ -277,7 +277,7 @@
 <p17>Lesson 17.4:<a href="https://github.com/WorkED123/resume-building"> Resume Building</a></p17>
 <br>
 <br>
-<p17>Lesson 17.5: Interview Preparation</p17>
+<p17>Lesson 17.5:<a href="https://github.com/WorkED123/Interview-Preparation"> Interview Preparation</a></p17>
 <br>
 <br>
 
@@ -288,12 +288,12 @@
 <p18>Lesson 18.2:<a href="https://github.com/WorkED123/AI"> Artifical Intelligence </a></p18>
 <br>
 <br>
-<p18>Lesson 18.3: Quantum Computing</p18>
+<p18>Lesson 18.3:<a href="https://github.com/WorkED123/Quantum-Computing"> Quantum Computing</a></p18>
 <br>
 <br>
-<p18>Lesson 18.4: Digital Identity</p18>
+<p18>Lesson 18.4:<a href="https://github.com/WorkED123/OSINT"> Digital Identity</a></p18>
 <br>
 <br>
-<p18>Lesson 18.5: Ubiquitous Connectivity</p18>
+<p18>Lesson 18.5:<a href="https://github.com/WorkED123/Ubiquitous-Connectivity"> Ubiquitous Connectivity</a></p18>
 <br>
 <br>
