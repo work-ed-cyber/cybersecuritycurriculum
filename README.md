@@ -1,6 +1,6 @@
 
 
-<h1> Cybersecurity Curriculummmmm</h1>
+<h1> Cybersecurity Curriculum</h1>
 
 <h2>Module 1: Cyber Essentials</h2> 
     
