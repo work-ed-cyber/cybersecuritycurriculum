@@ -260,7 +260,7 @@
 <p16>Lesson 16.4:<a href="https://github.com/WorkED123/Threat-Intelligence-and-Models"> Threat Intelligence and Models</a></p16>
 <br>
 <br>
-<p16>Lesson 16.5:<a href="https://github.com/WorkED123/Malware-Analysis-and-Reverse-Engineering"> Malware ANalysis and Reverse Engineering</a></p16>
+<p16>Lesson 16.5:<a href="https://github.com/WorkED123/Malware-Analysis-and-Reverse-Engineering"> Malware Analysis and Reverse Engineering</a></p16>
 <br>
 <br>
 
