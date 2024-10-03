@@ -60,7 +60,7 @@
 <br>
 <br>
 <h2> Module 5: Web Application Security</h2>
-<p5> Lesson 5.1:<a href="https://github.com/WorkED123/Common-Web-Vulnerabilities"> Common Web Vulnerabbilities </a></p5>
+<p5> Lesson 5.1:<a href="https://github.com/WorkED123/Common-Web-Vulnerabilities"> Common Web Vulnerabilities </a></p5>
 <br>
 <br>
 <p5> Lesson 5.2:<a href="https://github.com/WorkED123/intro-to-https-SSL"> Introduction to HTTPS and SSL/TLS</a> </p5>
