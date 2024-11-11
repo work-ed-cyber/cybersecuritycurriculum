@@ -291,7 +291,7 @@
 <p18>Lesson 18.3:<a href="https://github.com/WorkED123/Quantum-Computing"> Quantum Computing</a></p18>
 <br>
 <br>
-<p18>Lesson 18.4:<a href="https://github.com/WorkED123/OSINT"> Digital Identity</a></p18>
+<p18>Lesson 18.4:<a href="https://github.com/WorkED123/OSINT"> OSINT</a></p18>
 <br>
 <br>
 <p18>Lesson 18.5:<a href="https://github.com/WorkED123/Ubiquitous-Connectivity"> Ubiquitous Connectivity</a></p18>
